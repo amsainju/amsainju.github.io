@@ -4,13 +4,13 @@ body{
 #mainbody{
     width: 1000px;
     margin: 0 auto;
-    background-color: #293646;
+    background-color: #0e82c2;
     
 }
 #left-column{
     width: 209px;
 	
-    background-color: #293646;
+    background-color: #0e82c2;
     display: inline-block;
     text-align: center;
     padding: 0 20px;
@@ -91,10 +91,10 @@ h2,h3,h4,h5{margin: 5px 0;}
     margin-top: 10px;
 }
 #bio{
-    margin-bottom: 50px;
+    margin-bottom: 5px;
 }
 #Main_research{
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 .head{
     padding: 5px 0;
